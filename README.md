@@ -1,4 +1,4 @@
-# Click on this link to start a convo the-duh-chat-app-ab0407.netlify.app 
+# Click on this link to start a convo https://the-duh-chat-app-ab0407.netlify.app/
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
